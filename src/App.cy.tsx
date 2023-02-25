@@ -1,4 +1,4 @@
-import App from './App';
+import { App } from './App';
 
 describe('<App />', () => {
   it('should render a h1 title with an welcome message', () => {

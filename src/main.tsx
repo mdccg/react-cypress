@@ -1,10 +1,13 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import App from './App'
-import './index.css'
+import ReactDOM from 'react-dom/client';
+import { App } from './App';
+import { FontStyles } from './assets/fonts';
+import './index.css';
 
-ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
-  <React.StrictMode>
+const rootDiv = document.getElementById('root') as HTMLElement;
+const root = ReactDOM.createRoot(rootDiv);
+root.render(
+  <>
+    <FontStyles />
     <App />
-  </React.StrictMode>,
-)
+  </>
+);

@@ -1,3 +1,9 @@
-const App = () => <h1>Oi!</h1>;
+import { Header } from './components/Header';
 
-export default App;
+export const App = () => {
+  return (
+    <main>
+      <Header title="Cutie birb 🐦" />
+    </main>
+  );
+}
