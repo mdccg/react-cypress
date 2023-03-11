@@ -6,17 +6,18 @@
   - [Sumário](#sumário)
   - [Motivação](#motivação)
   - [Pilha de tecnologia](#pilha-de-tecnologia)
+  - [Galeria](#galeria)
   - [Como rodar](#como-rodar)
     - [Pré-requisitos](#pré-requisitos)
     - [Passo a passo](#passo-a-passo)
 
 ## Motivação
 
-O seguinte projeto se encontra em andamento.
+O seguinte app foi feito em sala de aula apenas para exemplificar o teste de componente do framework Cypress e depois combiná-lo com um teste de ponta a ponta.
 
 Este foi o segundo repositório de código apresentado no [Curso Superior de TSI do IFMS](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) como requisito para obtenção da nota parcial das atividades da unidade curricular Construção de Páginas Web IV.
 
-| [&larr; Repositório anterior](https://github.com/mdccg/aquecimento-cypress/) | [Próximo repositório &rarr;](#) |
+| [&larr; Repositório anterior](https://github.com/mdccg/aquecimento-cypress/) | [Próximo repositório &rarr;](https://github.com/mdccg/color-panel) |
 |-|-|
 
 ## Pilha de tecnologia
@@ -30,6 +31,10 @@ As seguintes tecnologias foram utilizadas para desenvolver este app:
 | Biblioteca de interface de usuário | [React](https://reactjs.org/) |
 | Empacotador de módulos | [Vite](https://vitejs.dev/) |
 | Framework de teste | [Cypress](https://www.cypress.io/) |
+
+## Galeria
+
+![Tela principal do app](./docs/cutie-birb.png)
 
 ## Como rodar
 
